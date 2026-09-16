@@ -14,7 +14,5 @@ I’m Mohammed Omar, a backend developer specializing in building secure, scalab
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohammed-i1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mohammed-i1&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-i1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-i1" /> </p>
 
